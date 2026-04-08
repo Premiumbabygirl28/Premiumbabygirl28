@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Premiumbabygirl28
+- 👋 Hi, I’m fathia omoniyi
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python and sql .
 - 💞️ I’m looking to collaborate on anything concerning data science 
